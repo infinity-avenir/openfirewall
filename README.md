@@ -27,7 +27,13 @@ Other Tools : tcpdump, iperf3, nginx, USB storage tools<br>
 Phase 1 (Now):<br>
 Compile the latest version of tools/software/apps<br>
 Create the LUCI WebUI for all the apps<br>
-Test on Linksys wrt3200acm<br>
+Test on Linksys wrt3200acm and GLinet Flint 2<br>
+<br>
+Phase 1 software lists :<br>
+- Snort -- done<br>
+- nDpi/Netify - WIP<br>
+- clamav - WIP re-design<br>
+- WAF : bunkerweb, mitmproxy, nginx-mod-naxsi -- wip<br>
 <br>
 Phase 2 :<br>
 Compile the tools for : Glinet Beryl AX, GL.inet Flint 2 (If other GL.inet routers officially support the native OpenWRT, they will also be added to the list)<br>
